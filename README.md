@@ -1,6 +1,12 @@
 UA:AdGuard/4.4.14 (Linux; U; Android 13; PGEM10 Build/SP1A.210812.016)
-http://rssv.cn/adguard/api.php?type=dns
-http://rssv.cn/adguard/api.php?type=host
+
+http://rssv.cn/adguard/api.php?type=black
+##file: black.txt
+
+
+//http://rssv.cn/adguard/api.php?type=dns
+//http://rssv.cn/adguard/api.php?type=host
+
 
 <br />! Title: 晴雅DNS过滤器
 <br />! Description: qingya dns
