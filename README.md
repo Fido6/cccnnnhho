@@ -1,11 +1,15 @@
-UA:AdGuard/4.4.14 (Linux; U; Android 13; PGEM10 Build/SP1A.210812.016)
+_http://rssv.cn/adguard/api.php?type=black_
 
-http://rssv.cn/adguard/api.php?type=black
-##file: black.txt
+## UA:AdGuard/4.4.14 (Linux; U; Android 13; PGEM10 Build/SP1A.210812.016)
+## file: black.txt
 
+#  _http://rssv.cn/adguard/api.php?type=black_
 
-//http://rssv.cn/adguard/api.php?type=dns
-//http://rssv.cn/adguard/api.php?type=host
+# https://raw.githubusercontent.com/Fido6/cccnnnhho/main/black.txt
+
+_http://rssv.cn/adguard/api.php?type=dns_
+
+_http://rssv.cn/adguard/api.php?type=host_
 
 
 <br />! Title: 晴雅DNS过滤器
